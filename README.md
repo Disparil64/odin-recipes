@@ -2,6 +2,6 @@
 
 This is my first attempt at making a basic website with HTML. 
 
-I am going to create a website with Recipes and multiple pages with links and photos
+I am going to create a website with Recipes and multiple pages with links and photos and play around wiht CSS.
 
 https://jordananderson72.github.io/odin-recipes/index.html Hosted webpage for verification
